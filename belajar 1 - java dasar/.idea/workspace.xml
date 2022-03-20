@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f61a8b2-c352-428b-a0bf-58f44d4d02ab" name="Changes" comment="Mempelajari Komentar Pada Java" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="25PhpnD3OsotUVaw6kDog96Mykg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.Komentar">
+    <configuration name="Komentar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Komentar" />
+      <module name="belajar 1 - java dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodOverloading" />
+      <module name="belajar 1 - java dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodVariableArgument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodVariableArgument" />
+      <module name="belajar 1 - java dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursiveMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursiveMethod" />
+      <module name="belajar 1 - java dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scope" />
+      <module name="belajar 1 - java dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Komentar" />
+        <item itemvalue="Application.Scope" />
+        <item itemvalue="Application.RecursiveMethod" />
+        <item itemvalue="Application.MethodOverloading" />
+        <item itemvalue="Application.MethodVariableArgument" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f61a8b2-c352-428b-a0bf-58f44d4d02ab" name="Changes" comment="" />
+      <created>1645434815683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645434815683</updated>
+      <workItem from="1645434818897" duration="4859000" />
+      <workItem from="1645581744844" duration="8289000" />
+      <workItem from="1646064145641" duration="5236000" />
+    </task>
+    <task id="LOCAL-00001" summary="Mempelajari tipe data number">
+      <created>1645435055604</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645435055604</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Mempelajari tipe data number lainnya">
+      <created>1645435483597</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1645435483597</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Mempelajari Konversi Number">
+      <created>1645435818872</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1645435818873</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Mempelajari Tipe Data Character">
+      <created>1645436019320</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645436019320</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Mempelajari Tipe Data Boolean">
+      <created>1645436622742</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645436622742</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Mempelajari Tipe Data String">
+      <created>1645436816722</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1645436816722</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Mempelajari Variable">
+      <created>1645437466929</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1645437466929</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Mempelajari Tipe Data Bukan Primitif">
+      <created>1645439582095</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1645439582095</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Mempelajari Array">
+      <created>1645617113774</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1645617113774</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Mempelajari Operasi Matematika">
+      <created>1645617844488</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1645617844488</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Mempelajari Operasi Perbandingan">
+      <created>1645617999738</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1645617999738</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Mempelajari Operasi Boolean">
+      <created>1645618560745</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1645618560745</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Mempelajari Expression, Statement, Block">
+      <created>1645618948294</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1645618948294</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Mempelajari If Statement">
+      <created>1645619537367</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1645619537367</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Mempelajari Switch Statement, Switch Lamda, Switch dengan Yield">
+      <created>1645620943750</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1645620943750</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Mempelajari Ternary Operator">
+      <created>1645621164598</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1645621164598</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Mempelajari For Loop">
+      <created>1645621677509</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1645621677509</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Mempelajari While Loop">
+      <created>1645621950545</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1645621950545</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Mempelajari DoWhile Loop">
+      <created>1646064290191</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1646064290191</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Mempelajari Break dan Continue">
+      <created>1646064743170</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1646064743170</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Mempelajari ForEach">
+      <created>1646065031929</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1646065031929</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Mempelajari Method">
+      <created>1646065314126</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1646065314126</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Mempelajari Method Parameter">
+      <created>1646065518267</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1646065518267</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Mempelajari Method Return Value">
+      <created>1646066000699</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1646066000699</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Mempelajari Method Variable Argument">
+      <created>1646066557339</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1646066557339</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Mempelajari Method Overloading">
+      <created>1646066778905</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1646066778905</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Mempelajari Method Recursive">
+      <created>1646067645533</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1646067645534</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Mempelajari Scope">
+      <created>1646068120607</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1646068120607</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Mempelajari Komentar Pada Java">
+      <created>1646068535492</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1646068535493</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Mempelajari Tipe Data Boolean" />
+    <MESSAGE value="Mempelajari Tipe Data String" />
+    <MESSAGE value="Mempelajari Variable" />
+    <MESSAGE value="Mempelajari Tipe Data Bukan Primitif" />
+    <MESSAGE value="Mempelajari Array" />
+    <MESSAGE value="Mempelajari Operasi Matematika" />
+    <MESSAGE value="Mempelajari Operasi Perbandingan" />
+    <MESSAGE value="Mempelajari Operasi Boolean" />
+    <MESSAGE value="Mempelajari Expression, Statement, Block" />
+    <MESSAGE value="Mempelajari If Statement" />
+    <MESSAGE value="Mempelajari Switch Statement, Switch Lamda, Switch dengan Yield" />
+    <MESSAGE value="Mempelajari Ternary Operator" />
+    <MESSAGE value="Mempelajari For Loop" />
+    <MESSAGE value="Mempelajari While Loop" />
+    <MESSAGE value="Mempelajari DoWhile Loop" />
+    <MESSAGE value="Mempelajari Break dan Continue" />
+    <MESSAGE value="Mempelajari ForEach" />
+    <MESSAGE value="Mempelajari Method" />
+    <MESSAGE value="Mempelajari Method Parameter" />
+    <MESSAGE value="Mempelajari Method Return Value" />
+    <MESSAGE value="Mempelajari Method Variable Argument" />
+    <MESSAGE value="Mempelajari Method Overloading" />
+    <MESSAGE value="Mempelajari Method Recursive" />
+    <MESSAGE value="Mempelajari Scope" />
+    <MESSAGE value="Mempelajari Komentar Pada Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mempelajari Komentar Pada Java" />
+  </component>
+</project>
